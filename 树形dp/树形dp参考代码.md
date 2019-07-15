@@ -216,7 +216,7 @@ int main()
 }
 ```
 
-POJ-3201
+ZOJ-3201
 ```javascript
 #include <iostream>
 #include <cstdio>
